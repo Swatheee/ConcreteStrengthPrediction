@@ -48,9 +48,3 @@ The dataset includes 1,030 samples and 9 features:
  🧑‍💻 Developed By
 Swathi Duggineni  
 AI & Data Science Enthusiast | Builder of Smart ML Models for Real-World Use
-
----
-
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
